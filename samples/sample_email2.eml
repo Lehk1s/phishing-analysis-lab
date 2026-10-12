@@ -1,0 +1,13 @@
+From: Example Support <support@example.com>
+To: user@example.net
+Subject: Example password reset notification
+Date: Mon, 12 Oct 2026 09:00:00 +0300
+Message-ID: <test-001@example.com>
+Reply-To: reply2@example.net
+Authentication-Results: example.com; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is a fictional test email for the phishing analysis lab.
+Visit https://example.com/account to review your account.
+https://frosti.com/account
